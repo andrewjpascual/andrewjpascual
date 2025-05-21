@@ -1,7 +1,7 @@
 # Hi, I'm Andrew :wave:
 <a href="https://linkedin.com/in/andrewjpascual"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub portfolio! I am an IT professional with experience in the healthcare industry, passionate about cybersecurity and implementing innovative strategies to protect digital environments.
+Welcome to my GitHub portfolio! I am an IT professional with experience within the healthcare industry, passionate about cybersecurity and implementing new strategies to protect digital environments.
 
 ## Skills
 
@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! I am an IT professional with experience in the h
 |-----------------------------------------------|----------------------------|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/andrewjpascual/MalwareShield">MalwareShield</a>|
 | Network Traffic analysis         | <a href="https://github.com/andrewjpascual/HostScanner">HostScanner</a>|
-| SIEM Implementation and Log Analysis         | SOC Automation Lab|
+| SIEM Implementation and Active Directory         | Active Directory Lab|
 
 ## Tools/Software
 
