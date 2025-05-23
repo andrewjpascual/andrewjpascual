@@ -33,6 +33,7 @@ Welcome to my GitHub portfolio! I am an IT professional with experience within t
     <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
     <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=CentOS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Rocky_Linux_9-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
 </div>
 
