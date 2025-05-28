@@ -7,9 +7,9 @@ Welcome to my GitHub portfolio! I am an IT professional with experience within t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/andrewjpascual/MalwareShield">MalwareShield</a>|
-| Network Traffic analysis         | <a href="https://github.com/andrewjpascual/HostScanner">HostScanner</a>|
-| SIEM Implementation and Active Directory         | Active Directory Lab|
+| Scripting and Automation for Threat Mitigation   | <a href="https://github.com/andrewjpascual/MalwareShield">MalwareShield</a>|
+| Network Traffic analysis                         | <a href="https://github.com/andrewjpascual/HostScanner">HostScanner</a>|
+| SIEM Implementation and Active Directory         | <a href="https://github.com/andrewjpascual/Active-Directory">Active Directory Lab|
 
 ## Tools/Software
 
