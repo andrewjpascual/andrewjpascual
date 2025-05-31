@@ -1,7 +1,7 @@
 # Hi, I'm Andrew :wave:
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin)](https://www.linkedin.com/in/andrewjpascual)
 
-Welcome to my GitHub portfolio! I am an IT professional with experience within the healthcare industry, passionate about cybersecurity and implementing new strategies to protect digital environments. Check out a few of my projects below and feel free to expand on the tools I make
+Welcome to my GitHub portfolio! I am an IT professional with experience within the healthcare industry, passionate about cybersecurity and implementing new strategies to protect digital environments. Check out a few of my projects below and feel free to expand on the tools I make!
 
 ## Skills
 
